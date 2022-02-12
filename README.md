@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoshanC99
-- 👀 I’m interested in ROS Application and Microcontrollers
+- 👀 I’m interested in ROS Application, Python/C++ Coding, Microcontrollers
 - 💞️ I’m looking to collaborate on AI, Neural Networks, ROS, Python/C++ Coding, Arduino, etc.
 
 
